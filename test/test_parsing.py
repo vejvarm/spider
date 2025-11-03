@@ -1,4 +1,4 @@
-from process_sql import get_schema, Schema, get_sql
+from ..process_sql import get_schema, Schema, get_sql
 
 
 def test_schema():
